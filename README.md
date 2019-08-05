@@ -11,3 +11,6 @@ GAME FUNCTION:
 - Notify the player of the correct answer if loose
 - Let player choose to play again
 
+<a href="https://www.adymoloca.com/app/number-guesser/">View Demo<a/>
+
+<code>Credits: Adrian Moloca</code>
